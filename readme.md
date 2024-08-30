@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/6bac47c2-ec8a-4a3a-9b8e-7216f090526a)
+
+
+
+
 # Using Discord on the Blackberry Bold 9900
 
 All credit goes to [gtrxAC](https://github.com/gtrxAC/discord-j2me?tab=readme-ov-file) for developing this app. I am demonstrating how to use it on the Bold 9900. 
